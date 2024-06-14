@@ -1,5 +1,6 @@
 # CODSOFT
 It contains all the tasks that I have implemented during my CODSOFT Internship.
+
 TASK 1 - Number Game
 The aim is to create a Java Program in which a user is given K chances to estimate a randomly generated number between 1 to 100. The user's guess is compared with the generated number and the program will display whether the guess is correct, too high, or too low.
 
